@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Who can tell me how this happend?
 
 You can use the [editor on GitHub](https://github.com/DryShampoo/DryShampoo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
