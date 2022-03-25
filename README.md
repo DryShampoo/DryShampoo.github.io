@@ -1,29 +1,30 @@
-## Who can tell me how this happend?
+## Be more carefull next time 
 
-You can use the [editor on GitHub](https://github.com/DryShampoo/DryShampoo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+If you are on this website now it must mean you are not as carefull as you should be!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Clikking on links you dont know/reconice is never a good ider, especially if it comes from someone you dont know.
 
-### Markdown
+### Fishing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I will quickly tell you how all this work and how to prevent it 
 
-```markdown
-Syntax highlighted code block
+```Fishing is a type of attack if you will, there is many ways to do it but some of the more populor ones is.
 
-# Header 1
-## Header 2
-### Header 3
+-Facebook
+-Google account
+-Instagram
 
-- Bulleted
-- List
+Fishing is done by fx. Sending a fake email with a link inside it, when the "victim" in this case its you, click on the link they get redirektet to a browser where they have to log in (fx. Google account) When the victim then logs in the "attacker" witch is me then gets the email you types in and your password. We would also call this credentials.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+If you are here that means you just fell for a fishing attack now, I will not be using the credentials I got this is only and I mean ONLY for eductational puposes. This is to show how easy it can be sometimes to be tricked in diffrent ways by people you might know or not know at all.
 
-[Link](url) and ![Image](src)
+
+If you wanna learn more about phishing then click the link I have providet and no... this is not a phishing link trust me.. or dont its up to you
+
+[Link]
+https://www.csoonline.com/article/2117843/what-is-phishing-how-this-cyber-attack-works-and-how-to-prevent-it.html
+
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
