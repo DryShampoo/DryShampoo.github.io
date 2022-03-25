@@ -8,7 +8,8 @@ Clicking on links you don't know/recognize is never a good idea, especially if i
 
 I will quickly tell you how all this work and how to prevent it 
 
-```Phishing is a type of attack if you will, there are many ways to do it but some of the more popular ones are.
+
+Phishing is a type of attack if you will, there are many ways to do it but some of the more popular ones are.
 
 -Facebook
 -Google account
@@ -24,6 +25,9 @@ If you want to learn more about phishing then click the link I have provided and
 
 [Link]
 https://www.csoonline.com/article/2117843/what-is-phishing-how-this-cyber-attack-works-and-how-to-prevent-it.html
+
+
+```
 
 ```
 
